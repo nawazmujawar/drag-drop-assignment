@@ -1,0 +1,37 @@
+.draggedItem {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  margin: 30px;
+}
+.saveSec {
+  display: flex;
+  height: auto;
+  margin-right: 20px;
+}
+.draggedItem__sec {
+  margin-left: 50px;
+}
+.draggedItem__sec__head {
+  /* font-weight: bold; */
+  border: 1px solid #e2e2e2;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 80px;
+}
+.draggedItem__sec__items {
+  margin: 20px;
+}
+.saveSec button {
+  padding: 5px 20px;
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 25px;
+  border: none;
+}
+.save {
+  background-color: #29aae3;
+  color: white;
+}
