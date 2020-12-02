@@ -18,4 +18,4 @@ npm start
 
 ## Output
 
-![Alt Text](https://github.com/nawazmujawar/drag-drop-assignment/tree/main/src/assets/d&d.gif)
+![Alt Text](./assets/d&d.gif)
